@@ -1,3 +1,6 @@
+<h4>RSA Encryption algorithm by CrossTech-0x
+<img src="encrypt.png">
+<br>
 <h2>Step 1 :</h1>
 Take two prime number p and q as input from user.
 <h2>Step 2:</h2>
@@ -19,7 +22,7 @@ modinv is calculated using Extended Euclidean Algorithm.
 <h2>Step 6:Encryption</h2>
 If ‘m’ is the message to be transmitted, it is encrypted as c.
 <br><i>c = (m**e) % n</i>
-<img src="encrypt.png">
+
 
 <h2>Step 7:Decryption</h2>
 Take private key as a input.Private key pair is [n,d]. 
