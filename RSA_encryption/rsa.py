@@ -1,4 +1,4 @@
-#Implementing RSA encryption algorithm in pure python
+#Implementation of RSA encryption algorithm in pure python by CrossTech-0x
 import random
 def check_prime(num):
     if num > 1:
