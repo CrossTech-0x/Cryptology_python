@@ -1,6 +1,10 @@
 <h4>RSA Encryption algorithm by CrossTech-0x
 <img src="encrypt.png">
 <br>
+
+<img src="Decrypt.png">
+<br>
+
 <h2>Step 1 :</h1>
 Take two prime number p and q as input from user.
 <h2>Step 2:</h2>
